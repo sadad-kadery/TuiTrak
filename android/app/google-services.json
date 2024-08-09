@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350017452202",
+    "project_id": "tuitrak2",
+    "storage_bucket": "tuitrak2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350017452202:android:6b7402489ccf9f38ecf8d3",
+        "android_client_info": {
+          "package_name": "com.example.truitrak2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM8hV2MbLvy4ZaqsjB0621u7pYSvQuiB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
