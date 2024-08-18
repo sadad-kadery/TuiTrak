@@ -1,4 +1,4 @@
-# truitrak2
+# TuiTrak
 
 A new Flutter project.
 
